@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rooms>
+    <room id="3">
+        <days>
+            <day id="2016-06-01">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-02">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-03">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-04">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-05">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-06">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-07">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-08">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-09">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-10">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-11">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-12">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-13">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-14">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-15">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+        </days>
+    </room>
+    <room id="4">
+        <days>
+            <day id="2016-06-01">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-02">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-03">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-04">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-05">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-06">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-07">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-08">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-09">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-10">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-11">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-12">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-13">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-14">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-15">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+        </days>
+    </room>
+    <room id="8">
+        <days>
+            <day id="2016-06-01">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-02">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-03">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-04">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-05">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-06">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-07">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-08">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-09">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-10">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-11">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-12">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-13">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-14">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-15">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+        </days>
+    </room>
+    <room id="9">
+        <days>
+            <day id="2016-06-01">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-02">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-03">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-04">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-05">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-06">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-07">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-08">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-09">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-10">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-11">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-12">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-13">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-14">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-15">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+        </days>
+    </room>
+    <room id="5">
+        <days>
+            <day id="2016-06-01">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-02">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-03">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-04">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-05">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-06">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-07">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-08">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-09">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-10">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-11">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-12">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-13">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-14">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-15">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+        </days>
+    </room>
+    <room id="6">
+        <days>
+            <day id="2016-06-01">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-02">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-03">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-04">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-05">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-06">
+                <minimum>7</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-07">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-08">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-09">
+                <minimum>7</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-10">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-11">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-12">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-13">
+                <minimum>3</minimum>
+                <status>0</status>
+            </day>
+            <day id="2016-06-14">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+            <day id="2016-06-15">
+                <minimum>3</minimum>
+                <status>1</status>
+            </day>
+        </days>
+    </room>
+</rooms>
